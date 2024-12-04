@@ -20,7 +20,7 @@ StockMarketAPI is a Spring Boot application that provides RESTful services for s
 1. Clone the repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/Sanadjarrad/StockMarketAPI.git
 cd stockmarketapi
 ```
 2. Build the project using Maven: 
