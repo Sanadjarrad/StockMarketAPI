@@ -7,8 +7,6 @@ StockMarketAPI is a Spring Boot application that provides RESTful services for s
 - Richer API Format: Combines data from two distinct APIs—Market Cap and Stock Quotes—to deliver detailed and enriched responses.
 - Synchronous and Asynchronous Clients: Fetch stock data in real-time using both sync and async modes.
 - REST API Endpoints: Expose market data and stock quotes through easy-to-use RESTful APIs.
-- Exception Handling: Global exception handling for robust error management.
-- Custom Models: Well-defined response models for API interaction.
 
 ## Requirments
 
